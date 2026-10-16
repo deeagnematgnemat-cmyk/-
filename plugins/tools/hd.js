@@ -10,10 +10,10 @@ import { theme } from '../../lib/theme.js';
 
 const execAsync = promisify(exec);
 
-// تعريف رقم المطور ورقم حساب البوت الرسمي
+// تعريف رقم المطور ورقم حساب البوت الرسمي المعتمد
 const EREN_INFO = {
-    ownerNumber: "رقم_المطور_هنا", // ضع رقم المطور هنا
-    botNumber: "رقم_البوت_هنا"      // ضع رقم حساب البوت هنا
+    ownerNumber: "962796163926", // رقم حساب المطور
+    botNumber: "962795106901"      // رقم حساب البوت
 };
 
 async function enhanceImage(mediaBuffer) {
@@ -65,7 +65,7 @@ const EREN = {
   botNumber: EREN_INFO.botNumber
 };
 
-async function execute({ sock, msg, args }) {
+async function execute({ sock, msg, args, sender, isOwner, isElite, isDeveloper, conn, BIDS }) {
   const chatId = msg.key.remoteJid;
   const quoted = msg.quoted ? msg.quoted : msg;
   const mime = quoted.mimetype || quoted.msg?.mimetype || '';
@@ -77,7 +77,9 @@ async function execute({ sock, msg, args }) {
         { type: 'title', text: 'طـريـقـة الاسـتـخـدام - 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』' },
         { type: 'subtitle', text: 'قم بإرسال صورة أو الرد على صورة لتحسين جودتها' },
         { type: 'divider' },
-        { type: 'info', label: 'أمر التفعيل', value: '.تحسين (مع صورة)' }
+        { type: 'info', label: 'أمر التفعيل', value: '.تحسين (مع صورة)' },
+        { type: 'info', label: 'المطور', value: `+${EREN_INFO.ownerNumber}` },
+        { type: 'info', label: 'البوت', value: `+${EREN_INFO.botNumber}` }
       ])
     }, { quoted: msg });
   }
