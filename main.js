@@ -1,4 +1,4 @@
-import { DisconnectReason, jidNormalizedUser } from '@aizen/baileys';
+import { DisconnectReason, jidNormalizedUser } from '@whiskeysockets/baileys';
 import fs from 'fs-extra';
 import path from 'path';
 import chalk from 'chalk';
