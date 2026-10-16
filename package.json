@@ -1,7 +1,7 @@
 {
   "name": "eren-whatsapp-bot",
   "version": "1.0.0",
-  "description": "『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 WhatsApp Bot",
+  "description": "『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝐨𝓉 『✦』 WhatsApp Bot",
   "license": "ISC",
   "author": "𝐸𝓇𝑒́n",
   "type": "module",
@@ -27,6 +27,7 @@
     "link-preview-js": "^3.2.0",
     "node-fetch": "^3.3.2",
     "node-webpmux": "^3.2.1",
-    "pino": "^9.14.0"
+    "pino": "^9.14.0",
+    "protobufjs": "^7.2.5"
   }
 }
