@@ -12,7 +12,7 @@ import {
 
 const EREN = {
     command: "اعدادات",
-    description: "لوحة تحكم كاملة وشاملة (زرف + ثيمات + ايزن + اوامر + بوت) - 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』",
+    description: "لوحة تحكم كاملة وشاملة (زرف + ثيمات + ايرين + اوامر + بوت) - 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』",
     elite: "off",
     group: false,
     prv: false,
@@ -363,8 +363,8 @@ async function execute({ sock, msg, args }) {
 \`🎨 لتغير الثيم بالكونسل.\`
 
 
-- *ايزن*
-\`🫟 لعرض تفاصيل تأثير الايزن على الاوامر.\`
+- *ايرين*
+\`🫟 لعرض تفاصيل تأثير ايرين على الاوامر.\`
 
 - *اوامر*
 \`⛓️ للتحكم بالاوامر سواء جعلها للنخبة او للمجموعات او الخاص فقط.\`
@@ -500,12 +500,12 @@ async function execute({ sock, msg, args }) {
                 state = "THEME_SELECT";
                 return;
             }
-            else if (input === "ايزن") {
+            else if (input === "ايرين" || input === "ايزن") {
                 const status = getConfigValue('aizen');
                 const icon = status === "on" ? "✅" : "⛔";
-                let aizenMenu = `\`🫟 حالة الايزن الحالية :\` ${status}${icon}\n\n`;
-                aizenMenu += status === "off" ? `*تشغيل*\nلتشغيل تاثير الايزن.\n\n` : `*ايقاف*\n⛔ لإيقاف تاثير الايزن.\n\n`;
-                aizenMenu += `*تخصيص*\n➕ لإضافة تأثير ايزن على امر محدد.\n\n*معلومات*\nℹ️ لعرض وتعديل بيانات الايزن.\n\n*رجوع* للعودة.`;
+                let aizenMenu = `\`🫟 حالة ايرين الحالية :\` ${status}${icon}\n\n`;
+                aizenMenu += status === "off" ? `*تشغيل*\nلتشغيل تاثير ايرين.\n\n` : `*ايقاف*\n⛔ لإيقاف تاثير ايرين.\n\n`;
+                aizenMenu += `*تخصيص*\n➕ لإضافة تأثير ايرين على امر محدد.\n\n*معلومات*\nℹ️ لعرض وتعديل بيانات ايرين.\n\n*رجوع* للعودة.`;
                 await updateMessage(aizenMenu);
                 state = "AIZEN_MENU";
                 return;
@@ -810,7 +810,7 @@ async function execute({ sock, msg, args }) {
                 await updateMessage("🔄 *جاري تحديث جميع الأوامر...*");
                 await updateAllPluginsAizen("on");
                 try { await loadPlugins(); } catch(e) {}
-                await updateMessage("`✅ تم تشغيل نظام الايزن وتحديث الأوامر.`");
+                await updateMessage("`✅ تم تشغيل نظام ايرين وتحديث الأوامر.`");
                 sock.ev.off("messages.upsert", listener);
                 activeSessions.delete(chatId);
                 return;
@@ -820,13 +820,13 @@ async function execute({ sock, msg, args }) {
                 await updateMessage("🔄 *جاري إيقاف الأوامر...*");
                 await updateAllPluginsAizen("off");
                 try { await loadPlugins(); } catch(e) {}
-                await updateMessage("`⛔ تم إيقاف نظام الايزن.`");
+                await updateMessage("`⛔ تم إيقاف نظام ايرين.`");
                 sock.ev.off("messages.upsert", listener);
                 activeSessions.delete(chatId);
                 return;
             }
             if (input === "تخصيص") { 
-                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايزن له:\n(أو اكتب *رجوع* للإلغاء)"); 
+                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايرين له:\n(أو اكتب *رجوع* للإلغاء)"); 
                 state = "AIZEN_CUSTOMIZE_WAIT"; 
                 return; 
             }
@@ -853,7 +853,7 @@ async function execute({ sock, msg, args }) {
 
             if (input === "رجوع") {
                 state = "AIZEN_MENU";
-                return listener({messages:[{message:{conversation:"ايزن"},key:{remoteJid:chatId,participant:sender}}]});
+                return listener({messages:[{message:{conversation:"ايرين"},key:{remoteJid:chatId,participant:sender}}]});
             }
             if (input === "حفظ") {
                 await updateMessage("🔄 *جاري تطبيق التعديلات (وحذف/إضافة الثامنيل)...*");
@@ -987,7 +987,7 @@ async function execute({ sock, msg, args }) {
         if (state === "AIZEN_CUSTOMIZE_WAIT") {
             if (input === "رجوع") {
                 state = "AIZEN_MENU";
-                return listener({messages:[{message:{conversation:"ايزن"},key:{remoteJid:chatId,participant:sender}}]});
+                return listener({messages:[{message:{conversation:"ايرين"},key:{remoteJid:chatId,participant:sender}}]});
             }
             const cmdName = input.split(" ")[0]; 
             const filePath = await findFileByCommand(cmdName);
@@ -997,20 +997,20 @@ async function execute({ sock, msg, args }) {
             if (/aizen:\s*['"`](on|off)['"`]/.test(fileContent) || fileContent.includes("AIZEN_INJECTION_START")) {
                 tempStorage.targetFile = filePath; 
                 tempStorage.targetCmd = cmdName;
-                await updateMessage(`\`⚠️ تأثير الايزن موجود في هذا الامر بالفعل\`\n\n*ازل*\nلإزالة تاثير الايزن منه.\n*رجوع*\nللعودة الى الصفحة السابقة.`);
+                await updateMessage(`\`⚠️ تأثير ايرين موجود في هذا الامر بالفعل\`\n\n*ازل*\nلإزالة تاثير ايرين منه.\n*رجوع*\nللعودة الى الصفحة السابقة.`);
                 state = "AIZEN_REMOVE_CONFIRM";
                 return;
             }
             const res = injectAizenIntoFile(filePath);
             if (res === "FORBIDDEN") { 
-                await updateMessage("⚠️ *امر غير صالح للايزن يرجى كتابة امر اخر*"); 
+                await updateMessage("⚠️ *امر غير صالح للايرين يرجى كتابة امر اخر*"); 
                 await sleep(2000); 
-                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايزن له:\n(أو اكتب *رجوع* للإلغاء)"); 
+                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايرين له:\n(أو اكتب *رجوع* للإلغاء)"); 
                 return; 
             }
             if (res === "SUCCESS") { 
                 try { await loadPlugins(); } catch(e) {} 
-                await updateMessage(`\`🫟 تم اضافة تأثير الايزن على *${cmdName}* بنجاح.\``); 
+                await updateMessage(`\`🫟 تم اضافة تأثير ايرين على *${cmdName}* بنجاح.\``); 
                 sock.ev.off("messages.upsert", listener); 
                 activeSessions.delete(chatId);
                 return; 
@@ -1025,12 +1025,12 @@ async function execute({ sock, msg, args }) {
             if (input === "ازل" || input === "أزل") {
                 removeAizenFromFile(tempStorage.targetFile); 
                 try { await loadPlugins(); } catch(e) {}
-                await updateMessage(`\`✴️ تم ازالة تأثير الايزن على *${tempStorage.targetCmd}* بنجاح.\``); 
+                await updateMessage(`\`✴️ تم ازالة تأثير ايرين على *${tempStorage.targetCmd}* بنجاح.\``); 
                 sock.ev.off("messages.upsert", listener);
                 activeSessions.delete(chatId);
                 return;
             } else if (input === "رجوع") { 
-                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايزن له:"); 
+                await updateMessage("اكتب *اسم الأمر* الذي تريد إضافة تأثير ايرين له:"); 
                 state = "AIZEN_CUSTOMIZE_WAIT"; 
             }
             return;
@@ -1073,105 +1073,4 @@ async function execute({ sock, msg, args }) {
             else if (input === "قفل") { 
                 const v = currentSettings.lock==="on"?"off":"on"; 
                 updateCommandSetting(tempStorage.targetFile,"lock",v); 
-                await showTempMessage(v==="on"?`🔒 تم قفل الأمر *${tempStorage.targetCmd}*!`:`🔓 تم فتح الأمر *${tempStorage.targetCmd}*!`); 
-            }
-            else if (input === "مجموعات") { 
-                updateCommandSetting(tempStorage.targetFile,"group","true"); 
-                updateCommandSetting(tempStorage.targetFile,"prv","false"); 
-                await showTempMessage(`✅ تم تفعيل المجموعات (وتعطيل الخاص) لامر *${tempStorage.targetCmd}*!`); 
-            }
-            else if (input === "خاص") { 
-                updateCommandSetting(tempStorage.targetFile,"prv","true"); 
-                updateCommandSetting(tempStorage.targetFile,"group","false"); 
-                await showTempMessage(`✅ تم تفعيل الخاص (وتعطيل المجموعات) لامر *${tempStorage.targetCmd}*!`); 
-            }
-            else if (input === "ضبط") { 
-                updateCommandSetting(tempStorage.targetFile,"group","false"); 
-                updateCommandSetting(tempStorage.targetFile,"prv","false"); 
-                await showTempMessage(`🔄 تم ضبط إعدادات امر *${tempStorage.targetCmd}* ليعمل في كل مكان!`); 
-            }
-            return;
-        }
-
-        async function showCmdSettingsMenu() {
-            const s = readCommandSettings(tempStorage.targetFile);
-            const menuText = `\`تفاصيل الامر (${tempStorage.targetCmd})📋:\`\n\n\`الامر :\` ${tempStorage.targetCmd}\n\n*الخانة | الحالة*\n\`نخبة :\` ${s.elite==="on"?"✅":"❌"}\n\`قفل :\` ${s.lock==="on"?"✅":"❌"}\n\`مجموعات :\` ${s.group?"✅":"❌"}\n\`خاص :\` ${s.prv?"✅":"❌"}\n\nاكتب *ضبط* لجعل الأمر يعمل بالمجموعات والخاص بنفس الوقت.\nاكتب اسم الخانة للتعديل عليها.\nاكتب *رجوع* للعودة.`;
-            await updateMessage(menuText);
-        }
-
-        async function showTempMessage(msg) {
-            await updateMessage(msg); 
-            try { await loadPlugins(); } catch(e) {} 
-            await sleep(2000); 
-            await showCmdSettingsMenu();
-        }
-    };
-
-    async function showZarfMenu() {
-        const text = `✧━── ❝ 𝐄𝐃𝐈𝐓 𝐙𝐀𝐑𝐅 ❞ ──━✧\n\n✦ اسم\n✦ وصف\n✦ منشن\n✦ رسالة\n✦ رياكت\n✦ صورة\n✦ صوت\n✦ فيديو\n✦ بوم\n\n✍️ اكتب اسم القسم\n🔙 رجوع\n\n✧━── ❝ 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 ❞ ──━✧`;
-        await updateMessage(text);
-    }
-
-    async function showZarfSection(section) {
-        zarfSection = section;
-        state = "ZARF_SECTION";
-        
-        if (section === "بوم") {
-            let status = "off";
-            const boomFile = await findFileByCommand("بوم");
-            if (boomFile) {
-                const content = fs.readFileSync(boomFile, 'utf8');
-                const match = content.match(/time:\s*['"](on|off)['"]/);
-                if (match) status = match[1];
-            }
-            
-            const toggleAction = status === "on" ? "طفي" : "شغل";
-
-            await updateMessage(
-`✧━── ❝ 𝐄𝐃𝐈𝐓 𝐙𝐀𝐑𝐅 ❞ ──━✧\n\n✦ بوم\n\n📄 الميزة: تحديد المدة الزمنية قبل التفجير\n⚙️ الحالة: ${status === "on" ? "on ✅" : "off ⛔"}\n\n🔘 ${toggleAction}\n🔙 رجوع\n\n✧━── ❝ 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 ❞ ──━✧`
-            );
-            return;
-        }
-
-        const files = fs.readdirSync(zarfDir).filter(f => f.endsWith(".js")).map(f => join(zarfDir, f));
-        const cfg = readZarfConfig(files[0]);
-        
-        const map = {
-            "اسم": ["group.newSubject", "group.status"],
-            "وصف": ["group.newDescription", "group.descStatus"],
-            "منشن": ["mention.text", "mention.status"],
-            "رسالة": ["finalMessage.text", "finalMessage.status"],
-            "رياكت": ["reaction.emoji", "reaction.status"],
-            "صورة": ["media.image", "media.status"],
-            "صوت": ["audio.file", "audio.status"],
-            "فيديو": ["video.file", "video.status"]
-        };
-
-        const [valKey, statusKey] = map[section] || [];
-        let value = "غير محدد";
-        
-        if (valKey) {
-            value = valKey.split(".").reduce((o, k) => o?.[k], cfg) || "غير محدد";
-        }
-
-        const status = statusKey?.split(".").reduce((o, k) => o?.[k], cfg) || "off";
-        const toggleAction = status === "on" ? "طفي" : "شغل";
-
-        const editOption = "\n✏️ عدل";
-
-        await updateMessage(
-`✧━── ❝ 𝐄𝐃𝐈𝐓 𝐙𝐀𝐑𝐅 ❞ ──━✧\n\n✦ ${section}\n\n📄 الحالي: ${value}\n⚙️ الحالة: ${status === "on" ? "on ✅" : "off ⛔"}\n${editOption}\n🔘 ${toggleAction}\n🔙 رجوع\n\n✧━── ❝ 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 ❞ ──━✧`
-        );
-    }
-
-    sock.ev.on("messages.upsert", listener);
-    
-    const timeoutId = setTimeout(() => { 
-        sock.ev.off("messages.upsert", listener); 
-        activeSessions.delete(chatId);
-    }, 300_000);
-
-    activeSessions.set(chatId, { listener, timeout: timeoutId });
-}
-
-export default { EREN, AIZEN: EREN, execute };
+                await showTempMessage(v==="on"?`🔒 تم قفل الأمر
