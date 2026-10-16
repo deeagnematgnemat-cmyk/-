@@ -1,0 +1,2588 @@
+[8/28/2026, 21:19:32]
+__________________
+SENDER : BOT
+CMD    : test
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/28/2026, 21:19:32]
+__________________
+UNKNOWN: test
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/28/2026, 21:19:38]
+__________________
+SENDER : BOT
+CMD    : تس
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/28/2026, 21:19:38]
+__________________
+UNKNOWN: تس
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/28/2026, 21:19:43]
+__________________
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/28/2026, 21:19:49]
+__________________
+SENDER : USER
+CMD    : تست
+JID    : 201041903162@s.whatsapp.net
+LID    : 125323622531296@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/28/2026, 21:27:23]
+__________________
+SENDER : USER
+CMD    : ..
+JID    : 212625155949@s.whatsapp.net
+LID    : 211935933001955@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/28/2026, 21:27:23]
+__________________
+UNKNOWN: ..
+SENDER: 212625155949@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:34:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:34:11]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تست
+JID    : 125323622531296@s.whatsapp.net
+LID    : 125323622531296@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:34:30]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : .
+JID    : 255855916232851@s.whatsapp.net
+LID    : 255855916232851@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:34:30]
+__________________
+UNKNOWN: .
+SENDER: 255855916232851@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:45:09]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : ..
+JID    : 120363418993179148@s.whatsapp.net
+LID    : 120363418993179148@newsletter
+LOC    : PRIVATE
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:45:09]
+__________________
+UNKNOWN: ..
+SENDER: 120363418993179148@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:45:15]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تنصيب
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:45:17]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تنصيب
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:45:23]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تست
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:45:25]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : هلا
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:45:25]
+__________________
+UNKNOWN: هلا
+SENDER: 201096715254@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:48:16]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تنصيب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:17]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:18]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تنصيب
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:18]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:18]
+__________________
+UNKNOWN: بوت
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:48:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:20]
+__________________
+UNKNOWN: بوت
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:48:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:21]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 22:48:22]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : هلا
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:22]
+__________________
+UNKNOWN: هلا
+SENDER: 201096715254@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:48:22]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : اي
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:22]
+__________________
+UNKNOWN: اي
+SENDER: 201096715254@s.whatsapp.net
+__________________
+
+[8/29/2026, 22:48:23]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تست
+JID    : null
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:23]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : هلا
+JID    : null
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:23]
+__________________
+UNKNOWN: هلا
+SENDER: null
+__________________
+
+[8/29/2026, 22:48:25]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : اي
+JID    : null
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:25]
+__________________
+UNKNOWN: اي
+SENDER: null
+__________________
+
+[8/29/2026, 22:48:26]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تست
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:48:43]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تست
+JID    : null
+LID    : 120363411300777958@g.us
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:50:47]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : تنصيب
+JID    : 201096715254@s.whatsapp.net
+LID    : 64862965227557@lid
+LOC    : GROUP
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:57:03]
+__________________
+BOT    : MAIN
+SENDER : USER
+CMD    : .
+JID    : 201205691304@s.whatsapp.net
+LID    : 201022437867769@lid
+LOC    : PRIVATE
+ELITE  : NO
+__________________
+
+[8/29/2026, 22:57:03]
+__________________
+UNKNOWN: .
+SENDER: 201205691304@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:14:53]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:14:53]
+__________________
+UNKNOWN: menu
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:14:54]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:14:54]
+__________________
+UNKNOWN: menu
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:15:03]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:15:03]
+__________________
+UNKNOWN: download
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:15:03]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:15:03]
+__________________
+UNKNOWN: download
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:15:46]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : منيو
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:15:46]
+__________________
+UNKNOWN: منيو
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:15:46]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : منيو
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:15:46]
+__________________
+UNKNOWN: منيو
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:17:08]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : تحميل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:17:08]
+__________________
+UNKNOWN: تحميل
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:17:08]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تحميل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:17:08]
+__________________
+UNKNOWN: تحميل
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:18:39]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تحميل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:18:39]
+__________________
+UNKNOWN: تحميل
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:18:39]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : تحميل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:18:39]
+__________________
+UNKNOWN: تحميل
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[8/29/2026, 23:19:16]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:19:17]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:19:29]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:20:09]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:35:40]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:35:41]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:36:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:37:00]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:45:13]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:45:13]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:45:43]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:46:32]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:47:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[8/29/2026, 23:48:06]
+__________________
+BOT    : MD:201096715254
+SENDER : USER
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+__________________
+
+[9/18/2026, 02:37:29]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:37:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:40:14]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تيت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:40:14]
+__________________
+UNKNOWN: تيت
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 02:40:16]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:40:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:40:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : المطورين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:42:35]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:42:43]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : المطورين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:51:12]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:52:09]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:52:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:52:38]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : الاوامر
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:52:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:53:28]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : ازكار
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:56:29]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 02:59:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:01:14]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:01:21]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : المطورين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:03:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : جبتي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:04:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:05:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:05:10]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: بوست
+MSG: global.dfail is not a function
+__________________
+
+[9/18/2026, 03:05:49]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مشاكل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:06:16]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : رسائلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:06:16]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: رسائلي
+MSG: Cannot read properties of undefined (reading 'subject')
+__________________
+
+[9/18/2026, 03:06:57]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : رفع
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:06:57]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: رفع
+MSG: m.react is not a function
+__________________
+
+[9/18/2026, 03:07:27]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عدد
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:08:06]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : ايديت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:08:30]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : ايديت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:09:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:09:35]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:09:51]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:11:08]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عدل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:11:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عدل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:12:16]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : nobot
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:12:16]
+__________________
+UNKNOWN: nobot
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 03:12:25]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : نوبوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:12:25]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: نوبوت
+MSG: global.dfail is not a function
+__________________
+
+[9/18/2026, 03:13:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تحسين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:14:31]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : شيك
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:15:14]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : شيك
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:16:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:16:47]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : نخبة
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:16:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مطور
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:31]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:31]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: بوست
+MSG: global.dfail is not a function
+__________________
+
+[9/18/2026, 03:18:32]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مشاكل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:32]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : رسائلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:32]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: رسائلي
+MSG: Cannot read properties of undefined (reading 'subject')
+__________________
+
+[9/18/2026, 03:18:33]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : رفع
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:33]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : ايديت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:36]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عدل
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:37]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : نوبوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:18:37]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: نوبوت
+MSG: global.dfail is not a function
+__________________
+
+[9/18/2026, 03:18:37]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تحسين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:20:07]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : ازكار
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:20:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:22:46]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مخفي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:22:46]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: مخفي
+MSG: Cannot read properties of undefined (reading 'map')
+__________________
+
+[9/18/2026, 03:23:46]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:24:02]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : المطورين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:24:41]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:24:50]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:24:51]
+__________________
+[ERROR] EXECUTION FAILED
+CMD: عين
+MSG: m.react is not a function
+__________________
+
+[9/18/2026, 03:24:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : قيم
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:25:07]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : احزر
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:25:24]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : جوابي_1
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 03:25:24]
+__________________
+UNKNOWN: جوابي_1
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 11:48:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تس
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 11:48:23]
+__________________
+UNKNOWN: تس
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 11:48:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 11:48:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 11:49:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : notrack
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 11:50:42]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : notrack
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 12:08:16]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : notrack
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:53:57]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تس
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:53:57]
+__________________
+UNKNOWN: تس
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 13:53:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:54:12]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:54:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:55:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : notrack
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:56:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:56:49]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : راقب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:57:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:57:20]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تنصيب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:57:49]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تنصيب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:58:01]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تنصيب
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:58:41]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:58:47]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:59:01]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_2
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 13:59:01]
+__________________
+UNKNOWN: مجوب_2
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:00:01]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : download
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:01:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:01:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مخفي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:01:37]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مخفي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:03:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : menu
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:03:30]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عدد
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:03:37]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : كابلز
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:04:12]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : اخر
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:04:12]
+__________________
+UNKNOWN: اخر
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:04:26]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : اخر30
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:05:17]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : رفع
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:06:10]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:07:34]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:19:21]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:19:32]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:19:40]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_3
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:19:40]
+__________________
+UNKNOWN: مجوب_3
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:21:55]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:21:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:22:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_3
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:22:11]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_4
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:26:50]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:26:55]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:27:06]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_2
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:27:27]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:27:41]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_3
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:30:42]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : imagine
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:37:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:38:13]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:01]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:01]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:01]
+__________________
+UNKNOWN: تست
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:46:02]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:02]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:02]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:03]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:03]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تس
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:03]
+__________________
+UNKNOWN: تس
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:46:03]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:04]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363395085759589@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:04]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363427509406921@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363427509406921@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : بوت
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363427509406921@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تس
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363427509406921@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:05]
+__________________
+UNKNOWN: تس
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 14:46:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363427509406921@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:07]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 120363395085759589@g.us
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:46:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:50:39]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : عين
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:50:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : مجوب_1
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 14:55:44]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : نانو
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 15:45:54]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 15:46:08]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 15:46:08]
+__________________
+UNKNOWN: سمعلي
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:11:08]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:11:14]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : سمعلي
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:11:14]
+__________________
+UNKNOWN: سمعلي
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:11:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تيت
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:11:58]
+__________________
+UNKNOWN: تيت
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:12:00]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : تست
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:15:22]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : زرف
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:16:24]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:16:28]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : زرف
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:32:23]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:32:30]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : هاا
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:32:30]
+__________________
+UNKNOWN: هاا
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:32:32]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : هلا
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:32:32]
+__________________
+UNKNOWN: هلا
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:32:56]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : هلا
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:32:56]
+__________________
+UNKNOWN: هلا
+SENDER: 962796163926@s.whatsapp.net
+__________________
+
+[9/18/2026, 16:35:00]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:35:05]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : هلا
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:36:55]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD    : حدث
+JID    : 962796163926@s.whatsapp.net
+LID    : 166993311334645@lid
+LOC    : GROUP
+ELITE  : YES
+DEV    : YES
+__________________
+
+[9/18/2026, 16:36:58]
+__________________
+BOT    : MAIN
+SENDER : BOT
+CMD
