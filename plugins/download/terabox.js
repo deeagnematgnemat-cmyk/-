@@ -2,7 +2,7 @@
 //@Eren/note Preserves full original logic with Eren branding and approved themes
 
 // plugins/terabox.js
-// 🍷 𝐸𝓇𝑒𝓃 𝘚𝘺𝘴𝘵𝘦ܡ - تحميل من تيرابوكس ☁️
+// 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 - تحميل من تيرابوكس ☁️
 
 import axios from 'axios';
 import { theme } from '../../lib/theme.js';
@@ -12,7 +12,7 @@ let handler = async (m, { conn, text }) => {
     // التحقق من وجود رابط
     if (!text) {
         return conn.reply(m.chat, theme.build([
-            { type: 'title', text: 'طـريـقـة الاسـتـخـدام - 𝐸𝓇𝑒𝓃 🍷' },
+            { type: 'title', text: 'طـريـقـة الاسـتـخـدام - 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』' },
             { type: 'subtitle', text: 'يرجى إرسال رابط تيرابوكس للتحميل' },
             { type: 'divider' },
             { type: 'info', label: 'مثال', value: '.تيرابوكس https://www.terabox.com/...' }
@@ -31,7 +31,7 @@ let handler = async (m, { conn, text }) => {
     
     await conn.reply(m.chat, theme.build([
         { type: 'title', text: '📥 جـاري الـتـحـمـيـل' },
-        { type: 'subtitle', text: '⏳ جاري جلب الملف من تيرابوكس بواسطة 𝐸𝓇𝑒𝓃 🍷...' }
+        { type: 'subtitle', text: '⏳ جاري جلب الملف من تيرابوكس بواسطة 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』...' }
     ]), m);
 
     try {
@@ -53,7 +53,7 @@ let handler = async (m, { conn, text }) => {
             fileName: fileName,
             mimetype: "application/octet-stream",
             caption: theme.build([
-                { type: 'title', text: '✅ تـم الـتـحـمـيـل بـواسطـة 𝐸𝓇𝑒𝓃 🍷' },
+                { type: 'title', text: '✅ تـم الـتـحـمـيـل بـواسطـة 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』' },
                 { type: 'subtitle', text: fileName.substring(0, 50) },
                 { type: 'divider' },
                 { type: 'info', label: '📦 الـحـجـم', value: fileSize },
