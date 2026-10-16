@@ -3,21 +3,14 @@
   "version": "1.0.0",
   "description": "『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 WhatsApp Bot",
   "license": "ISC",
-  "author": "𝐸𝓇𝑒𝓃",
+  "author": "𝐸𝓇𝑒́n",
   "type": "module",
   "main": "index.js",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
-    "test": "node packages/dejavu-baileys-wrapped/test/index.test.mjs",
-    "start": "node index.js",
-    "postinstall": "node scripts/install-dejavu.mjs",
-    "dejavu:install": "node scripts/install-dejavu.mjs",
-    "dejavu:check": "node scripts/install-dejavu.mjs --check",
-    "dejavu:fork": "node scripts/install-dejavu.mjs --fork",
-    "aizen:install": "node scripts/install-dejavu.mjs",
-    "aizen:check": "node scripts/install-dejavu.mjs --check"
+    "start": "node index.js"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -37,4 +30,3 @@
     "pino": "^9.14.0"
   }
 }
-
