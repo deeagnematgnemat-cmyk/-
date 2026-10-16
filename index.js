@@ -36,7 +36,7 @@ function start(retry = 0) {
     if (isRunning) return;
     isRunning = true;
 
-    logger.info('✦𝘚𝘵𝘢𝘳𝘵𝘪𝘯𝘨 𝘋𝘦𝘫𝘢𝘷𝘶 𝘣𝘰𝘵');
+    logger.info('✦𝘚𝘵𝘢𝘳𝘵𝘪𝘯𝘨 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』');
 
     const child = fork(join(__dirname, 'main.js'), [], {
         stdio: ['inherit', 'inherit', 'inherit', 'ipc']
@@ -45,7 +45,7 @@ function start(retry = 0) {
 
     child.on('message', (data) => {
         if (data === 'ready') {
-            logger.success('🥐𝘋𝘦𝘫𝘢𝘷𝘶 𝘣𝘰𝘵 𝘯𝘰𝘸 𝘰𝘯𝘭𝘪𝘯𝘦');
+            logger.success('🥐『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』 𝘯𝘰𝘸 𝘰𝘯𝘭𝘪𝘯𝘦');
         } else if (data === 'reset') {
             logger.warn('↻ Restart requested. Reloading...');
             child.kill();
@@ -101,5 +101,5 @@ function shutdown() {
 process.on('SIGINT', shutdown);
 process.on('SIGTERM', shutdown);
 
-logger.info('𝘋𝘦𝘫𝘢𝘷𝘶🦋');
+logger.info('𝐸𝓇𝑒𝓃🦋');
 start();
