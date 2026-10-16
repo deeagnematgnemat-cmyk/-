@@ -1,0 +1,21 @@
+// ملف إدارة وسائط الأذكار - AZKAR_MEDIA
+export const azkarMedia = {
+    morning: [
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1000&auto=format&fit=crop", // صورة خلفية صباحية هادئة
+        "https://images.unsplash.com/photo-1519817650390-64a93db51149?q=80&w=1000&auto=format&fit=crop"
+    ],
+    evening: [
+        "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?q=80&w=1000&auto=format&fit=crop", // صورة خلفية مسائية
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+    ],
+    general: [
+        "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?q=80&w=1000&auto=format&fit=crop" // خلفية دينية عامة
+    ]
+};
+
+// دالة لجلب رابط صورة عشوائية للأذكار لمنع حدوث خطأ في البوت
+export function getRandomAzkarImage(type = 'general') {
+    const list = azkarMedia[type] || azkarMedia.general;
+    const randomIndex = Math.floor(Math.random() * list.length);
+    return list[randomIndex];
+}
