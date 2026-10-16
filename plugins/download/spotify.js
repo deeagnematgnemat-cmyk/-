@@ -1,8 +1,8 @@
-//@Dejavu/changes Converted from PROTOTYPE to Dejavu framework
-//@Dejavu/note Preserves full original logic with Dejavu branding and approved themes
+//@Eren/changes Customized for Eren framework
+//@Eren/note Preserves full original logic with Eren branding and approved themes
 
 // commands/download_spotify.js
-// 🎵 تحميل أغاني سبوتيفاي 🎵
+// 🎵 تحميل أغاني سبوتيفاي - 𝐸𝓇𝑒𝓃 🍷 𝘚𝘺𝘴𝘵𝘦ܡ 🎵
 
 import fetch from 'node-fetch';
 
@@ -10,12 +10,12 @@ let handler = async (m, { conn, text, usedPrefix }) => {
   // 1. التحقق من وجود رابط
   if (!text) {
     await conn.sendMessage(m.chat, { 
-      text: `🎵 *تحميل من سبوتيفاي*\n\n📌 *الاستخدام:*\n${usedPrefix}سبوتيفاي <رابط الأغنية>\n\n📌 *مثال:*\n${usedPrefix}سبوتيفاي https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT` 
+      text: `🎵 *تحميل من سبوتيفاي - 𝐸𝓇𝑒𝓃 🍷*\n\n📌 *الاستخدام:*\n${usedPrefix}سبوتيفاي <رابط الأغنية>\n\n📌 *مثال:*\n${usedPrefix}سبوتيفاي https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT` 
     }, { quoted: m });
     return;
   }
 
-  // 2. استخراج رابط التrack
+  // 2. استخراج رابط الـ track
   const spotifyRegex = /(?:https?:\/\/)?(?:open\.spotify\.com\/track\/)([a-zA-Z0-9]+)/;
   const match = text.match(spotifyRegex);
   
@@ -28,7 +28,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 
   // 3. رسالة جاري جلب المعلومات
   await conn.sendMessage(m.chat, { 
-    text: `🎵 *جاري جلب معلومات الأغنية...*\n\n⏳ الرجاء الانتظار...`,
+    text: `🎵 *جاري جلب معلومات الأغنية بواسطة 𝐸𝓇𝑒𝓃 🍷...*\n\n⏳ الرجاء الانتظار...`,
     react: { text: '⏳', key: m.key }
   }, { quoted: m });
 
@@ -68,17 +68,14 @@ let handler = async (m, { conn, text, usedPrefix }) => {
     }
 
     // 7. إرسال صورة + كلام في نفس الرسالة
-    // النص اللي هيتكتب مع الصورة
-    const caption = `📥 *جاري تحميل الأغنية...*\n\n🎤 *الأغنية:* ${data.title || 'غير معروف'}\n👤 *الفنان:* ${data.authorName || 'غير معروف'}\n\n⏳ جاري تجهيز الملف...`;
+    const caption = `📥 *جاري تحميل الأغنية بواسطة 𝐸𝓇𝑒𝓃 🍷...*\n\n🎤 *الأغنية:* ${data.title || 'غير معروف'}\n👤 *الفنان:* ${data.authorName || 'غير معروف'}\n\n⏳ جاري تجهيز الملف...`;
     
     if (coverBuffer) {
-      // لو في صورة، ابعت الصورة + الكلام مع بعض
       await conn.sendMessage(m.chat, {
         image: coverBuffer,
         caption: caption
       }, { quoted: m });
     } else {
-      // لو مفيش صورة، ابعت الكلام بس
       await conn.sendMessage(m.chat, { text: caption }, { quoted: m });
     }
 
@@ -93,7 +90,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
     await conn.sendMessage(m.chat, { react: { text: '✅', key: m.key } });
 
   } catch (error) {
-    console.error("𝘌𝘳𝘳𝘰𝘳 𝘪𝘯 execution:", error);
+    console.error("Error in execution:", error);
     
     await conn.sendMessage(m.chat, { 
       text: `❌ *فشل تحميل الأغنية!*\n\n⚠️ *السبب:* قد يكون الرابط غير صالح أو الخدمة معطلة\n🔄 *الحل:* حاول مرة أخرى أو تأكد من الرابط` 
@@ -109,10 +106,10 @@ handler.tags = ['download'];
 handler.command = ['سبوتيفاي', 'spotify', 'تحميل اغنية', 'اغنية'];
 
 
-const DEJAVU = {
-  command: ["سبوتيفاي","spotify","اغنية","تحميل_اغنية"],
+const EREN = {
+  command: ["سبوتيفاي", "spotify", "اغنية", "تحميل_اغنية"],
   description: "تحميل مقاطع وأغاني سبوتيفاي",
-  usage: ".سبوتيفاي",
+  usage: ".سبوتيفاي [رابط]",
   elite: 'off',
   lock: "off",
   group: false,
@@ -140,4 +137,4 @@ async function execute({ sock, msg, args, sender, isOwner, isElite, isDeveloper,
   }
 }
 
-export default { DEJAVU, AIZEN: DEJAVU, execute };
+export default { EREN, execute };
