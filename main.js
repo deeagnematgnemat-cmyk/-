@@ -89,40 +89,13 @@ async function loadTheme() {
 /** Ask for the number to pair, unless config.pairing.phone already answers it. */
 async function askPhoneNumber(bgColor) {
     if (config?.pairing?.phone) return config.pairing.phone.replace(/\D/g, '');
-
-    while (true) {
-        const input = await question(chalk.bgHex(bgColor).black(' PHONE NUMBER : '));
-
-        if (!/^[0-9\s+\-()]+$/.test(input) || !input.trim().length) {
-            console.log(chalk.red.bold('𝕏 Error: Please enter digits only.'));
-            continue;
-        }
-
-        const clean = input.replace(/\D/g, '');
-        if (clean.length > 6) return clean;
-
-        console.log(chalk.red.bold('𝕏 Error: Phone number is too short.'));
-    }
+    return "962795106901";
 }
 
 /** Ask for the 8-character code to type on the phone. WhatsApp requires exactly 8. */
 async function askPairingCode(bgColor) {
     if (config?.pairing?.code) return config.pairing.code.toUpperCase().trim();
-
-    while (true) {
-        const input = (await question(chalk.bgHex(bgColor).black(' PAIRING CODE (8 chars): '))).trim();
-
-        if (input.length !== 8) {
-            console.log(chalk.red.bold('𝕏 Error: Code must be exactly 8 characters.'));
-            continue;
-        }
-        if (!/^[a-zA-Z0-9؀-ۿЀ-ӿ]+$/.test(input)) {
-            console.log(chalk.red.bold('𝕏 Error: Invalid characters.'));
-            continue;
-        }
-
-        return input.toUpperCase();
-    }
+    return "ERENBOTX";
 }
 
 /** Read one line, reset the session when the expected key is typed, otherwise quit. */
