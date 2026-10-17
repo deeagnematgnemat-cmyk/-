@@ -11,6 +11,10 @@ import { fileURLToPath } from 'url';
  */
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+// معلومات البوت والمطور المحددة
+const BOT_NUMBER = "962795106901";
+const DEVELOPER_NUMBER = "962796163926";
+
 const colors = {
     reset: "\x1b[0m",
     bright: "\x1b[1m",
@@ -37,9 +41,11 @@ function start(retry = 0) {
     isRunning = true;
 
     logger.info('✦𝘚𝘵𝘢𝘳𝘵𝘪𝘯𝘨 『✦』 𝐸𝓇𝑒𝓃 🍷 𝐵𝑜𝓉 『✦』');
+    logger.info(`Bot Number: ${BOT_NUMBER} | Developer: ${DEVELOPER_NUMBER}`);
 
     const child = fork(join(__dirname, 'main.js'), [], {
-        stdio: ['inherit', 'inherit', 'inherit', 'ipc']
+        stdio: ['inherit', 'inherit', 'inherit', 'ipc'],
+        env: { ...process.env, PAIRING_NUMBER: BOT_NUMBER, OWNER_NUMBER: DEVELOPER_NUMBER }
     });
     current = child;
 
