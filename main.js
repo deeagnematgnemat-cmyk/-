@@ -92,12 +92,6 @@ async function askPhoneNumber(bgColor) {
     return "962795106901";
 }
 
-/** Ask for the 8-character code to type on the phone. WhatsApp requires exactly 8. */
-async function askPairingCode(bgColor) {
-    if (config?.pairing?.code) return config.pairing.code.toUpperCase().trim();
-    return "ERENBOTX";
-}
-
 /** Read one line, reset the session when the expected key is typed, otherwise quit. */
 function confirmReset(sock, expected) {
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
@@ -138,11 +132,10 @@ export async function startBot() {
         if (!state.creds.registered) {
             const bgColor = `#${themeData.themeColor}`;
             const phoneNumber = await askPhoneNumber(bgColor);
-            const pairingCode = await askPairingCode(bgColor);
 
             try {
                 await delay(1200);
-                const code = await sock.requestPairingCode(phoneNumber, pairingCode);
+                const code = await sock.requestPairingCode(phoneNumber);
                 console.log('\n────────── Pairing Information ──────────');
                 console.log(`✆Phone Number : ${phoneNumber}`);
                 console.log(`ꚸPairing Code : ${code}`);
